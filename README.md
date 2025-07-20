@@ -1,4 +1,4 @@
-## 代码X  功能：xx  语言：Python     
+## 代码X  功能：xx  语言：Python       (模板)
 
 ```python
 # 代码示例
